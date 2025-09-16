@@ -1,22 +1,22 @@
 const ExperienceSection = () => {
 	const experiences = [
 		{
-			role: 'Senior Software Engineer',
-			company: 'Tech Corp',
-			period: '2020 - Present',
-			highlights: 'Led development of microservices architecture, 40% improvement in system performance',
+			role: 'Analista de Datos',
+			company: 'Caterpillar',
+			period: 'FEB 2025 - Presente',
+			highlights: 'Migracion de datos',
 		},
 		{
-			role: 'Software Engineer',
-			company: 'Innovation Labs',
-			period: '2017 - 2020',
-			highlights: 'Architected cloud-native applications, mentored junior developers',
+			role: 'Practicante de TI',
+			company: 'Caterpillar',
+			period: 'NOV 2025 - FEB 2025',
+			highlights: 'Soporte tecnico en Software y Hardware',
 		},
 		{
-			role: 'Full Stack Developer',
-			company: 'StartUp Inc',
-			period: '2015 - 2017',
-			highlights: 'Built scalable web applications using React and Node.js',
+			role: 'Diseñador web',
+			company: 'Universidad',
+			period: '2023 - 2025',
+			highlights: 'Diseñador oficial de la universidad, elegido por beca de excelencia',
 		},
 	];
 
@@ -24,7 +24,7 @@ const ExperienceSection = () => {
 		<div className="py-6 bg-white dark:bg-gray-900 px-6">
 			<div className="space-y-4 max-w-2xl mx-auto">
 				<div>
-					<h3 className="text-lg font-semibold text-gray-900 dark:text-white text-center md:text-left">Experience</h3>
+					<h3 className="text-lg font-semibold text-gray-900 dark:text-white text-center md:text-left">Experiencia</h3>
 					<div className="h-px w-full bg-gray-200 dark:bg-gray-700 mt-2" />
 				</div>
 
