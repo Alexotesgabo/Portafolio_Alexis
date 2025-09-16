@@ -11,8 +11,8 @@ const ProfileSection = () => {
 				</div>
 
 				<div className="space-y-3">
-					<h1 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">John Doe</h1>
-					<h2 className="text-lg md:text-xl text-gray-600 dark:text-gray-400">Senior Software Engineer</h2>
+					<h1 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">Alexis Hernandez</h1>
+					<h2 className="text-lg md:text-xl text-gray-600 dark:text-gray-400">Analista de Datos</h2>
 					<div className="h-px w-16 bg-gray-200 dark:bg-gray-700 mx-auto my-4" />
 					<p className="text-sm md:text-base text-gray-600 dark:text-gray-400 max-w-xs mx-auto leading-relaxed">
 						Analista de Datos en potencia. Analisis completo de informacion para migracion y mantenimiento.
